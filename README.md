@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently third year undergrad
-- 👨‍💻 I’m Full-stack web developer 
+- 👨‍💻 Full-stack web developer 
 - 👯 I’m looking to collaborate on open-source contribution
 
 ## 🌱 My technical skills
