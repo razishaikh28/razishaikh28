@@ -4,10 +4,14 @@
 - 👨‍💻 Full-stack web developer 
 - 👯 I’m looking to collaborate on open-source contribution
 
-## 🌱 I'm Currently Learning
+## 🌱 My technical skills
 I'm always eager to learn new things and expand my skillset. Some of the technologies and topics I'm currently focusing on include:
 
 - Golang (latest)
+- C, C++, Python 
+- Javascript
+- MERN stack
+- PHP
 
 ## 💡 My Interests
 Apart from my professional work, I have a keen interest in:
