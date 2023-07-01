@@ -16,6 +16,8 @@ I'm always eager to learn new things and expand my skillset. Some of the technol
 ## 💡 My Interests
 Apart from my professional work, I have a keen interest in:
 
+- 🎙️ Listening to podcasts
+- 📖 Reading book
 - 🏀 Basketball
 - ⚽ Football
 
