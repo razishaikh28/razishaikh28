@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently third year undergrad
+- 🔭 I’m currently fourth year Computer Science undergrad
 - 👨‍💻 Full-stack web developer 
 - 👯 I’m looking to collaborate on open-source contribution
 
