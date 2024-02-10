@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently fourth year Computer Science undergrad
+- 🔭 I’m currently Fourth year Computer Science Undergrad
 - 👨‍💻 Full-stack web developer 
-- 👯 I’m looking to collaborate on open-source contribution
+- 👯 I’m looking to collaborate on Open-source contribution
+- 📝 I'm a Freelance SEO writer
 
 ## 🌱 My technical skills
 I'm always eager to learn new things and expand my skillset. Some of the technologies and topics I'm currently focusing on include:
@@ -25,7 +26,7 @@ Apart from my professional work, I have a keen interest in:
 I enjoy collaborating and connecting with fellow developers, so feel free to reach out to me through the following channels:
 
 - Email: shaikhrazi04@gmail.com
-- LinkedIn: Razi Shaikh (https://www.linkedin.com/in/razi-shaikh-98b9a0211/)
+- LinkedIn: Razi Shaikh (https://www.linkedin.com/in/razi-shaikh-wce/)
 
 ## 🌐 Find Me Online
 You can explore more about my work and activities on the web:
