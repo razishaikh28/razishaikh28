@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently Fourth year Computer Science Undergrad
-- 👨‍💻 Full-stack web developer 
+- 🔭 I’m currently B.Tech Computer Science Engineer
+- 👨‍💻 Data Engineer & Full-stack web developer 
 - 👯 I’m looking to collaborate on Open-source contribution
 - 📝 I'm a Freelance SEO writer
 
